@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "hello-world--cloudflare",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
